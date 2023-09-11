@@ -1,0 +1,794 @@
+﻿Customer ID,Country,City,State,Postal Code,Region
+CG-12520,United States,Henderson,Kentucky,42420,South
+DV-13045,United States,Henderson,Kentucky,42420,South
+SO-20335,United States,Los Angeles,California,90036,West
+BH-11710,United States,Fort Lauderdale,Florida,33311,South
+AA-10480,United States,Fort Lauderdale,Florida,33311,South
+IM-15070,United States,Los Angeles,California,90032,West
+HP-14815,United States,Los Angeles,California,90032,West
+PK-19075,United States,Los Angeles,California,90032,West
+AG-10270,United States,Los Angeles,California,90032,West
+ZD-21925,United States,Los Angeles,California,90032,West
+KB-16585,United States,Los Angeles,California,90032,West
+SF-20065,United States,Los Angeles,California,90032,West
+EB-13870,United States,Concord,North Carolina,28027,South
+EH-13945,United States,Seattle,Washington,98103,West
+TB-21520,United States,Fort Worth,Texas,76106,Central
+MA-17560,United States,Fort Worth,Texas,76106,Central
+GH-14485,United States,Madison,Wisconsin,53711,Central
+SN-20710,United States,West Jordan,Utah,84084,West
+LC-16930,United States,San Francisco,California,94109,West
+RA-19885,United States,San Francisco,California,94109,West
+ES-14080,United States,San Francisco,California,94109,West
+ON-18715,United States,Fremont,Nebraska,68025,Central
+PO-18865,United States,Fremont,Nebraska,68025,Central
+LH-16900,United States,Philadelphia,Pennsylvania,19140,East
+DP-13000,United States,Orem,Utah,84057,West
+JM-15265,United States,Los Angeles,California,90049,West
+TB-21055,United States,Los Angeles,California,90049,West
+KM-16720,United States,Philadelphia,Pennsylvania,19140,East
+PS-18970,United States,Philadelphia,Pennsylvania,19140,East
+BS-11590,United States,Philadelphia,Pennsylvania,19140,East
+KD-16270,United States,Philadelphia,Pennsylvania,19140,East
+HM-14980,United States,Philadelphia,Pennsylvania,19140,East
+JE-15745,United States,Philadelphia,Pennsylvania,19140,East
+KB-16600,United States,Philadelphia,Pennsylvania,19140,East
+SC-20770,United States,Houston,Texas,77095,Central
+DN-13690,United States,Richardson,Texas,75080,Central
+JC-16105,United States,Richardson,Texas,75080,Central
+CS-12400,United States,Houston,Texas,77041,Central
+PG-18895,United States,Houston,Texas,77041,Central
+GM-14455,United States,Houston,Texas,77041,Central
+JS-15685,United States,Houston,Texas,77041,Central
+KB-16315,United States,Naperville,Illinois,60540,Central
+RB-19705,United States,Los Angeles,California,90049,West
+PN-18775,United States,Melbourne,Florida,32935,South
+KD-16345,United States,Eagan,Minnesota,55122,Central
+ER-13855,United States,Eagan,Minnesota,55122,Central
+RB-19465,United States,Westland,Michigan,48185,Central
+GZ-14470,United States,Dover,Delaware,19901,East
+LC-16870,United States,Dover,Delaware,19901,East
+JM-15250,United States,New Albany,Indiana,47150,Central
+PA-19060,United States,New Albany,Indiana,47150,Central
+CV-12805,United States,New Albany,Indiana,47150,Central
+CL-12565,United States,New Albany,Indiana,47150,Central
+RC-19960,United States,New York City,New York,10024,East
+DK-13090,United States,New York City,New York,10024,East
+GG-14650,United States,Troy,New York,12180,East
+SC-20725,United States,Troy,New York,12180,East
+AD-10180,United States,Troy,New York,12180,East
+PF-19165,United States,Troy,New York,12180,East
+TS-21610,United States,Troy,New York,12180,East
+LS-16975,United States,Troy,New York,12180,East
+DW-13585,United States,Troy,New York,12180,East
+LC-16885,United States,Los Angeles,California,90004,West
+JD-15895,United States,Los Angeles,California,90004,West
+SH-19975,United States,Los Angeles,California,90004,West
+SG-20080,United States,Los Angeles,California,90004,West
+HA-14920,United States,Chicago,Illinois,60610,Central
+MG-17680,United States,Gilbert,Arizona,85234,West
+JE-16165,United States,Gilbert,Arizona,85234,West
+TW-21025,United States,Springfield,Virginia,22153,South
+SP-20650,United States,New York City,New York,10009,East
+NK-18490,United States,Jackson,Michigan,49201,Central
+DB-13060,United States,Memphis,Tennessee,38109,South
+NP-18670,United States,Memphis,Tennessee,38109,South
+TT-21070,United States,Memphis,Tennessee,38109,South
+EM-13960,United States,Houston,Texas,77041,Central
+RD-19900,United States,Houston,Texas,77041,Central
+MJ-17740,United States,Houston,Texas,77041,Central
+BM-11140,United States,Houston,Texas,77070,Central
+CS-12130,United States,Decatur,Alabama,35601,South
+JB-15400,United States,Decatur,Alabama,35601,South
+SJ-20500,United States,San Francisco,California,94122,West
+JK-15640,United States,San Francisco,California,94122,West
+DK-13150,United States,Durham,North Carolina,27707,South
+RM-19675,United States,Chicago,Illinois,60623,Central
+SK-19990,United States,Columbia,South Carolina,29203,South
+FM-14290,United States,Rochester,Minnesota,55901,Central
+AM-10360,United States,Rochester,Minnesota,55901,Central
+MP-17470,United States,Houston,Texas,77095,Central
+MZ-17515,United States,Los Angeles,California,90036,West
+CB-12025,United States,Los Angeles,California,90036,West
+VM-21685,United States,Los Angeles,California,90036,West
+FH-14365,United States,Minneapolis,Minnesota,55407,Central
+MB-17305,United States,Minneapolis,Minnesota,55407,Central
+BS-11755,United States,Minneapolis,Minnesota,55407,Central
+LC-17140,United States,Portland,Oregon,97206,West
+HK-14890,United States,New York City,New York,10009,East
+LE-16810,United States,San Francisco,California,94122,West
+JH-15985,United States,Saint Paul,Minnesota,55106,Central
+MS-17980,United States,Chicago,Illinois,60610,Central
+VW-21775,United States,Chicago,Illinois,60610,Central
+JH-15910,United States,Chicago,Illinois,60610,Central
+JB-15925,United States,Rochester,Minnesota,55901,Central
+DS-13180,United States,Aurora,Colorado,80013,West
+VD-21670,United States,Aurora,Colorado,80013,West
+EA-14035,United States,Aurora,Colorado,80013,West
+DB-13120,United States,Charlotte,North Carolina,28205,South
+KL-16645,United States,Charlotte,North Carolina,28205,South
+DW-13480,United States,Charlotte,North Carolina,28205,South
+LH-17155,United States,Orland Park,Illinois,60462,Central
+KC-16540,United States,New York City,New York,10035,East
+DL-13315,United States,Urbandale,Iowa,50322,Central
+DR-12880,United States,Urbandale,Iowa,50322,Central
+CC-12670,United States,Columbus,Ohio,43229,East
+Dl-13600,United States,Columbus,Ohio,43229,East
+SB-20290,United States,Columbus,Ohio,43229,East
+RC-19825,United States,Columbus,Ohio,43229,East
+AH-10210,United States,Seattle,Washington,98103,West
+CB-12535,United States,Bristol,Tennessee,37620,South
+CA-12310,United States,Wilmington,Delaware,19805,East
+KH-16690,United States,Wilmington,Delaware,19805,East
+BB-10990,United States,Wilmington,Delaware,19805,East
+AG-10495,United States,Wilmington,Delaware,19805,East
+JO-15280,United States,Wilmington,Delaware,19805,East
+AH-10195,United States,Houston,Texas,77041,Central
+NZ-18565,United States,Bloomington,Illinois,61701,Central
+KL-16555,United States,Phoenix,Arizona,85023,West
+AS-10225,United States,Phoenix,Arizona,85023,West
+CR-12625,United States,Los Angeles,California,90004,West
+SH-20395,United States,Los Angeles,California,90004,West
+BP-11185,United States,Columbus,Ohio,43229,East
+TS-21205,United States,Columbus,Ohio,43229,East
+AG-10525,United States,Columbus,Ohio,43229,East
+SP-20860,United States,Roseville,California,95661,West
+NM-18445,United States,Roseville,California,95661,West
+FA-14230,United States,Roseville,California,95661,West
+GK-14620,United States,Roseville,California,95661,West
+DJ-13510,United States,Roseville,California,95661,West
+PO-18850,United States,Roseville,California,95661,West
+JL-15850,United States,Roseville,California,95661,West
+DB-13615,United States,Philadelphia,Pennsylvania,19140,East
+AC-10420,United States,San Francisco,California,94122,West
+CC-12550,United States,San Francisco,California,94122,West
+TD-20995,United States,San Francisco,California,94122,West
+AB-10060,United States,Independence,Missouri,64055,Central
+JL-15505,United States,Pasadena,California,91104,West
+VB-21745,United States,Newark,Ohio,43055,East
+KW-16435,United States,Franklin,Wisconsin,53132,Central
+JD-16060,United States,Franklin,Wisconsin,53132,Central
+MK-17905,United States,Franklin,Wisconsin,53132,Central
+GT-14755,United States,Franklin,Wisconsin,53132,Central
+AG-10900,United States,Scottsdale,Arizona,85254,West
+MM-18280,United States,Scottsdale,Arizona,85254,West
+AR-10405,United States,San Jose,California,95123,West
+RA-19915,United States,San Jose,California,95123,West
+AS-10285,United States,San Jose,California,95123,West
+LA-16780,United States,Seattle,Washington,98105,West
+DO-13435,United States,Seattle,Washington,98115,West
+DK-13225,United States,Edmond,Oklahoma,73034,Central
+NG-18430,United States,Edmond,Oklahoma,73034,Central
+MV-18190,United States,Los Angeles,California,90045,West
+JG-15115,United States,Philadelphia,Pennsylvania,19134,East
+BP-11095,United States,Carlsbad,New Mexico,88220,West
+VP-21730,United States,Seattle,Washington,98115,West
+SS-20140,United States,San Antonio,Texas,78207,Central
+AG-10675,United States,San Antonio,Texas,78207,Central
+LF-17185,United States,San Antonio,Texas,78207,Central
+RF-19840,United States,San Antonio,Texas,78207,Central
+KH-16510,United States,San Antonio,Texas,78207,Central
+KC-16675,United States,San Antonio,Texas,78207,Central
+CJ-12010,United States,San Antonio,Texas,78207,Central
+PB-19150,United States,Los Angeles,California,90004,West
+MP-17965,United States,Los Angeles,California,90004,West
+NF-18385,United States,Los Angeles,California,90004,West
+SD-20485,United States,Chicago,Illinois,60623,Central
+KH-16630,United States,Chicago,Illinois,60623,Central
+RB-19795,United States,Houston,Texas,77036,Central
+MK-18160,United States,Newark,Ohio,43055,East
+PO-19180,United States,Newark,Ohio,43055,East
+BB-11545,United States,New York City,New York,10009,East
+TB-21595,United States,Decatur,Illinois,62521,Central
+RB-19360,United States,Decatur,Illinois,62521,Central
+EB-13705,United States,Monroe,Louisiana,71203,South
+SC-20095,United States,Monroe,Louisiana,71203,South
+TN-21040,United States,Monroe,Louisiana,71203,South
+JS-15940,United States,Fairfield,Connecticut,6824,East
+MH-17785,United States,Los Angeles,California,90032,West
+JP-15520,United States,Grand Prairie,Texas,75051,Central
+JE-15475,United States,Grand Prairie,Texas,75051,Central
+JG-15805,United States,New York City,New York,10035,East
+XP-21865,United States,New York City,New York,10035,East
+EM-14065,United States,New York City,New York,10035,East
+MT-18070,United States,New York City,New York,10035,East
+SA-20830,United States,New York City,New York,10035,East
+CW-11905,United States,Redlands,California,92374,West
+AJ-10960,United States,Hamilton,Ohio,45011,East
+SS-20590,United States,Hamilton,Ohio,45011,East
+RO-19780,United States,Westfield,New Jersey,7090,East
+MD-17350,United States,Philadelphia,Pennsylvania,19120,East
+MY-17380,United States,Philadelphia,Pennsylvania,19120,East
+CM-12385,United States,Akron,Ohio,44312,East
+LS-17245,United States,Denver,Colorado,80219,West
+BN-11515,United States,Denver,Colorado,80219,West
+DB-13210,United States,Dallas,Texas,75220,Central
+MC-17605,United States,Franklin,Tennessee,37064,South
+BD-11605,United States,Whittier,California,90604,West
+PH-18790,United States,Saginaw,Michigan,48601,Central
+MG-18145,United States,Saginaw,Michigan,48601,Central
+KB-16240,United States,Saginaw,Michigan,48601,Central
+JC-15340,United States,Saginaw,Michigan,48601,Central
+RL-19615,United States,Saginaw,Michigan,48601,Central
+AA-10375,United States,Dallas,Texas,75220,Central
+EP-13915,United States,Medina,Ohio,44256,East
+DK-12985,United States,Medina,Ohio,44256,East
+BD-11500,United States,Medina,Ohio,44256,East
+LM-17065,United States,Medina,Ohio,44256,East
+AS-10135,United States,Medina,Ohio,44256,East
+BD-11320,United States,Los Angeles,California,90032,West
+GT-14710,United States,Los Angeles,California,90032,West
+AJ-10945,United States,Dublin,Ohio,43017,East
+OT-18730,United States,Dublin,Ohio,43017,East
+LP-17080,United States,Dublin,Ohio,43017,East
+CA-12775,United States,Dublin,Ohio,43017,East
+JF-15490,United States,Dublin,Ohio,43017,East
+FP-14320,United States,Dublin,Ohio,43017,East
+EB-13840,United States,Detroit,Michigan,48227,Central
+JF-15415,United States,Detroit,Michigan,48227,Central
+SF-20200,United States,Detroit,Michigan,48227,Central
+TG-21640,United States,Columbia,Tennessee,38401,South
+CS-11950,United States,Columbia,Tennessee,38401,South
+CC-12145,United States,Charlotte,North Carolina,28205,South
+DV-13465,United States,Tampa,Florida,33614,South
+BD-11725,United States,Tampa,Florida,33614,South
+ZC-21910,United States,Tampa,Florida,33614,South
+MS-17830,United States,Tampa,Florida,33614,South
+LR-16915,United States,Tampa,Florida,33614,South
+TP-21130,United States,Santa Clara,California,95051,West
+CK-12205,United States,Chicago,Illinois,60610,Central
+AS-10240,United States,Chicago,Illinois,60610,Central
+AR-10510,United States,Chicago,Illinois,60610,Central
+NB-18655,United States,Chicago,Illinois,60610,Central
+GD-14590,United States,Chicago,Illinois,60610,Central
+CK-12595,United States,Chicago,Illinois,60610,Central
+NG-18355,United States,Chicago,Illinois,60610,Central
+CA-12265,United States,Lakeville,Minnesota,55044,Central
+SF-20965,United States,Lakeville,Minnesota,55044,Central
+MO-17800,United States,Lakeville,Minnesota,55044,Central
+AT-10735,United States,Lakeville,Minnesota,55044,Central
+FM-14380,United States,Lakeville,Minnesota,55044,Central
+DJ-13420,United States,San Francisco,California,94109,West
+ME-17725,United States,San Diego,California,92037,West
+JD-16150,United States,San Diego,California,92037,West
+JL-15835,United States,New York City,New York,10024,East
+SC-20305,United States,New York City,New York,10024,East
+CC-12430,United States,Chicago,Illinois,60623,Central
+AR-10825,United States,Chicago,Illinois,60623,Central
+SR-20740,United States,Chicago,Illinois,60623,Central
+CR-12730,United States,Chicago,Illinois,60623,Central
+EH-14125,United States,New York City,New York,10009,East
+SP-20545,United States,New York City,New York,10009,East
+TH-21235,United States,New York City,New York,10009,East
+RP-19390,United States,Pasadena,Texas,77506,Central
+RB-19570,United States,Houston,Texas,77036,Central
+CD-11980,United States,Houston,Texas,77036,Central
+DJ-13630,United States,Chicago,Illinois,60610,Central
+GT-14635,United States,Brentwood,California,94513,West
+MC-17845,United States,Chapel Hill,North Carolina,27514,South
+RA-19285,United States,Morristown,New Jersey,7960,East
+NP-18325,United States,Cincinnati,Ohio,45231,East
+AB-10165,United States,Cincinnati,Ohio,45231,East
+JO-15550,United States,San Francisco,California,94110,West
+JK-15370,United States,San Francisco,California,94109,West
+BN-11470,United States,San Francisco,California,94109,West
+DP-13165,United States,San Francisco,California,94109,West
+TH-21550,United States,Inglewood,California,90301,West
+AP-10915,United States,Inglewood,California,90301,West
+RS-19765,United States,Philadelphia,Pennsylvania,19140,East
+SV-20365,United States,Philadelphia,Pennsylvania,19140,East
+CK-12325,United States,Philadelphia,Pennsylvania,19140,East
+RD-19810,United States,Philadelphia,Pennsylvania,19140,East
+MR-17545,United States,Houston,Texas,77070,Central
+SC-20695,United States,Houston,Texas,77070,Central
+JF-15355,United States,Los Angeles,California,90004,West
+EG-13900,United States,Portland,Oregon,97206,West
+DS-13030,United States,Portland,Oregon,97206,West
+PO-19195,United States,Portland,Oregon,97206,West
+SS-20875,United States,Tamarac,Florida,33319,South
+PB-19105,United States,Tamarac,Florida,33319,South
+RF-19735,United States,Tamarac,Florida,33319,South
+YC-21895,United States,Columbus,Ohio,43229,East
+DC-13285,United States,Columbus,Ohio,43229,East
+CP-12340,United States,Columbus,Ohio,43229,East
+BF-11020,United States,Columbus,Ohio,43229,East
+LH-17020,United States,Colorado Springs,Colorado,80906,West
+CS-12250,United States,Colorado Springs,Colorado,80906,West
+AJ-10795,United States,Colorado Springs,Colorado,80906,West
+BV-11245,United States,Colorado Springs,Colorado,80906,West
+DL-12865,United States,Colorado Springs,Colorado,80906,West
+BM-11785,United States,Belleville,New Jersey,7109,East
+LT-17110,United States,Belleville,New Jersey,7109,East
+JK-15730,United States,Belleville,New Jersey,7109,East
+ES-14020,United States,Belleville,New Jersey,7109,East
+RH-19495,United States,Belleville,New Jersey,7109,East
+CD-11920,United States,Chicago,Illinois,60623,Central
+HW-14935,United States,New York City,New York,10024,East
+MC-18130,United States,Taylor,Michigan,48180,Central
+GM-14440,United States,Lakewood,New Jersey,8701,East
+PJ-19015,United States,Lakewood,New Jersey,8701,East
+BW-11110,United States,Arlington,Virginia,22204,South
+TR-21325,United States,Arvada,Colorado,80004,West
+PG-18820,United States,Arvada,Colorado,80004,West
+JL-15175,United States,Arvada,Colorado,80004,West
+BM-11650,United States,Arvada,Colorado,80004,West
+EM-14095,United States,Hackensack,New Jersey,7601,East
+AF-10885,United States,Saint Petersburg,Florida,33710,South
+GA-14725,United States,Saint Petersburg,Florida,33710,South
+CK-12760,United States,Philadelphia,Pennsylvania,19143,East
+DP-13105,United States,New York City,New York,10024,East
+BK-11260,United States,New York City,New York,10024,East
+SJ-20125,United States,New York City,New York,10024,East
+CM-12445,United States,New York City,New York,10024,East
+AJ-10780,United States,New York City,New York,10024,East
+LS-16945,United States,Long Beach,California,90805,West
+GP-14740,United States,Hesperia,California,92345,West
+PK-18910,United States,Hesperia,California,92345,West
+SM-20005,United States,Murfreesboro,Tennessee,37130,South
+AG-10765,United States,Philadelphia,Pennsylvania,19143,East
+PM-19135,United States,Philadelphia,Pennsylvania,19143,East
+LL-16840,United States,Philadelphia,Pennsylvania,19143,East
+JS-15595,United States,Philadelphia,Pennsylvania,19143,East
+EL-13735,United States,Philadelphia,Pennsylvania,19143,East
+PC-18745,United States,Philadelphia,Pennsylvania,19134,East
+HL-15040,United States,Philadelphia,Pennsylvania,19134,East
+MS-17365,United States,Philadelphia,Pennsylvania,19134,East
+GB-14530,United States,Los Angeles,California,90045,West
+JR-16210,United States,Los Angeles,California,90045,West
+BE-11335,United States,Los Angeles,California,90045,West
+SC-20050,United States,San Francisco,California,94122,West
+RW-19630,United States,San Francisco,California,94122,West
+SE-20110,United States,Layton,Utah,84041,West
+AH-10075,United States,Philadelphia,Pennsylvania,19140,East
+JM-15535,United States,Philadelphia,Pennsylvania,19140,East
+JJ-15760,United States,Philadelphia,Pennsylvania,19140,East
+RK-19300,United States,Philadelphia,Pennsylvania,19140,East
+CG-12040,United States,Austin,Texas,78745,Central
+RP-19270,United States,San Francisco,California,94122,West
+KC-16255,United States,Lowell,Massachusetts,1852,East
+KH-16360,United States,Lowell,Massachusetts,1852,East
+GH-14665,United States,Lowell,Massachusetts,1852,East
+SW-20275,United States,New York City,New York,10009,East
+JA-15970,United States,New York City,New York,10009,East
+DL-12925,United States,New York City,New York,10009,East
+LW-16990,United States,New York City,New York,10009,East
+TB-21190,United States,New York City,New York,10009,East
+BS-11800,United States,New York City,New York,10035,East
+RW-19690,United States,New York City,New York,10035,East
+TZ-21580,United States,New York City,New York,10035,East
+AS-10630,United States,New York City,New York,10035,East
+TS-21340,United States,Charlotte,North Carolina,28205,South
+SL-20155,United States,Columbus,Georgia,31907,South
+MW-18235,United States,Columbus,Georgia,31907,South
+RD-19585,United States,New York City,New York,10009,East
+RA-19945,United States,New York City,New York,10009,East
+MT-17815,United States,New York City,New York,10009,East
+VG-21790,United States,New York City,New York,10009,East
+JS-15880,United States,San Francisco,California,94109,West
+KM-16225,United States,Manchester,Connecticut,6040,East
+HR-14770,United States,Manchester,Connecticut,6040,East
+DE-13255,United States,Manchester,Connecticut,6040,East
+AG-10390,United States,Manchester,Connecticut,6040,East
+JJ-15445,United States,Harlingen,Texas,78550,Central
+JH-15430,United States,Harlingen,Texas,78550,Central
+RD-19660,United States,Tucson,Arizona,85705,West
+MO-17500,United States,Tucson,Arizona,85705,West
+NS-18640,United States,Tucson,Arizona,85705,West
+DG-13300,United States,Tucson,Arizona,85705,West
+NF-18595,United States,Quincy,Illinois,62301,Central
+MG-17650,United States,Franklin,Massachusetts,2038,East
+TS-21160,United States,Houston,Texas,77095,Central
+BD-11620,United States,Houston,Texas,77095,Central
+CM-12160,United States,Houston,Texas,77095,Central
+SN-20560,United States,San Francisco,California,94109,West
+EH-14005,United States,San Francisco,California,94109,West
+FO-14305,United States,Taylor,Michigan,48180,Central
+MS-17710,United States,Pembroke Pines,Florida,33024,South
+CC-12100,United States,Pembroke Pines,Florida,33024,South
+DW-13540,United States,Philadelphia,Pennsylvania,19140,East
+BT-11395,United States,Philadelphia,Pennsylvania,19140,East
+CY-12745,United States,Cincinnati,Ohio,45231,East
+BT-11485,United States,New York City,New York,10009,East
+PS-19045,United States,New York City,New York,10009,East
+PV-18985,United States,Des Moines,Washington,98198,West
+NM-18520,United States,Des Moines,Washington,98198,West
+DL-13495,United States,Peoria,Illinois,61604,Central
+CS-12355,United States,Las Vegas,Nevada,89115,West
+FH-14275,United States,Warwick,Rhode Island,2886,East
+NC-18340,United States,Warwick,Rhode Island,2886,East
+AA-10315,United States,Jackson,Michigan,49201,Central
+LT-16765,United States,Houston,Texas,77036,Central
+AP-10720,United States,Houston,Texas,77036,Central
+PM-18940,United States,Houston,Texas,77036,Central
+AT-10435,United States,Houston,Texas,77036,Central
+CA-12055,United States,Miami,Florida,33180,South
+HR-14830,United States,Wilmington,North Carolina,28403,South
+BT-11530,United States,New York City,New York,10024,East
+LH-16750,United States,San Francisco,California,94110,West
+SW-20755,United States,San Francisco,California,94110,West
+SP-20620,United States,San Francisco,California,94110,West
+BF-11170,United States,San Francisco,California,94110,West
+KT-16480,United States,San Francisco,California,94110,West
+BG-11695,United States,San Francisco,California,94110,West
+GM-14680,United States,San Francisco,California,94110,West
+EJ-14155,United States,San Francisco,California,94110,West
+NP-18700,United States,San Francisco,California,94110,West
+MH-18115,United States,Seattle,Washington,98105,West
+JR-15700,United States,Seattle,Washington,98105,West
+SM-20950,United States,Huntington Beach,California,92646,West
+CC-12220,United States,Los Angeles,California,90004,West
+PF-19225,United States,Richmond,Kentucky,40475,South
+DC-12850,United States,Los Angeles,California,90045,West
+BD-11770,United States,Los Angeles,California,90045,West
+GM-14500,United States,Louisville,Colorado,80027,West
+TB-21355,United States,Lawrence,Massachusetts,1841,East
+JH-16180,United States,Lawrence,Massachusetts,1841,East
+EB-13975,United States,Jackson,Mississippi,39212,South
+QJ-19255,United States,Canton,Michigan,48187,Central
+TC-21535,United States,Canton,Michigan,48187,Central
+CS-12460,United States,New Rochelle,New York,10801,East
+HG-14965,United States,San Antonio,Texas,78207,Central
+LW-16825,United States,Gastonia,North Carolina,28052,South
+MC-17575,United States,Gastonia,North Carolina,28052,South
+LP-17095,United States,Gastonia,North Carolina,28052,South
+EB-14170,United States,Gastonia,North Carolina,28052,South
+GZ-14545,United States,Lowell,Massachusetts,1852,East
+CP-12085,United States,Jacksonville,Florida,32216,South
+FG-14260,United States,Jacksonville,Florida,32216,South
+LD-17005,United States,Chicago,Illinois,60623,Central
+AB-10255,United States,Chicago,Illinois,60623,Central
+MN-17935,United States,Houston,Texas,77070,Central
+JR-15670,United States,New York City,New York,10024,East
+JF-15190,United States,Detroit,Michigan,48227,Central
+CM-12115,United States,Detroit,Michigan,48227,Central
+AS-10045,United States,Detroit,Michigan,48227,Central
+BP-11290,United States,Detroit,Michigan,48227,Central
+ND-18370,United States,Detroit,Michigan,48227,Central
+LB-16735,United States,Detroit,Michigan,48227,Central
+KT-16465,United States,Columbus,Indiana,47201,Central
+HM-14860,United States,Auburn,New York,13021,East
+AB-10600,United States,Auburn,New York,13021,East
+SZ-20035,United States,Auburn,New York,13021,East
+MG-17890,United States,Auburn,New York,13021,East
+JK-16120,United States,Auburn,New York,13021,East
+PP-18955,United States,Auburn,New York,13021,East
+YS-21880,United States,Akron,Ohio,44312,East
+KM-16375,United States,Akron,Ohio,44312,East
+AB-10105,United States,Norman,Oklahoma,73071,Central
+HA-14905,United States,Concord,California,94521,West
+BT-11305,United States,Decatur,Illinois,62521,Central
+SV-20815,United States,Decatur,Illinois,62521,Central
+RW-19540,United States,Seattle,Washington,98115,West
+DK-12835,United States,Seattle,Washington,98115,West
+ST-20530,United States,Seattle,Washington,98115,West
+MM-17920,United States,Phoenix,Arizona,85023,West
+PW-19030,United States,Phoenix,Arizona,85023,West
+SC-20440,United States,Phoenix,Arizona,85023,West
+TS-21085,United States,Phoenix,Arizona,85023,West
+MC-17425,United States,Phoenix,Arizona,85023,West
+ME-17320,United States,Park Ridge,Illinois,60068,Central
+NH-18610,United States,Amarillo,Texas,79109,Central
+MB-18085,United States,Chicago,Illinois,60610,Central
+KD-16495,United States,Lindenhurst,New York,11757,East
+KN-16390,United States,San Francisco,California,94110,West
+NP-18685,United States,San Francisco,California,94110,West
+CS-12505,United States,San Francisco,California,94110,West
+MS-17770,United States,San Francisco,California,94110,West
+CM-12655,United States,San Francisco,California,94110,West
+Co-12640,United States,San Francisco,California,94110,West
+TS-21370,United States,Los Angeles,California,90008,West
+JW-15220,United States,Troy,New York,12180,East
+JD-15790,United States,New York City,New York,10024,East
+PC-19000,United States,New York City,New York,10024,East
+AR-10540,United States,San Diego,California,92024,West
+AI-10855,United States,New York City,New York,10024,East
+TB-21400,United States,New York City,New York,10024,East
+PL-18925,United States,Los Angeles,California,90045,West
+GH-14425,United States,Los Angeles,California,90045,West
+MP-18175,United States,Los Angeles,California,90045,West
+JM-15655,United States,Chicago,Illinois,60610,Central
+CL-11890,United States,Huntsville,Texas,77340,Central
+DB-13270,United States,Huntsville,Texas,77340,Central
+IG-15085,United States,Huntsville,Texas,77340,Central
+BO-11425,United States,Rochester,New York,14609,East
+AB-10150,United States,Rochester,New York,14609,East
+JW-16075,United States,Seattle,Washington,98115,West
+EB-13750,United States,Memphis,Tennessee,38109,South
+SG-20470,United States,Fayetteville,Arkansas,72701,South
+CM-12190,United States,Costa Mesa,California,92627,West
+AW-10840,United States,Costa Mesa,California,92627,West
+MC-18100,United States,Costa Mesa,California,92627,West
+TT-21460,United States,Costa Mesa,California,92627,West
+VG-21805,United States,Parker,Colorado,80134,West
+MY-18295,United States,Parker,Colorado,80134,West
+RD-19480,United States,Parker,Colorado,80134,West
+DP-13390,United States,Parker,Colorado,80134,West
+ML-17395,United States,Parker,Colorado,80134,West
+JC-15385,United States,New York City,New York,10024,East
+JG-15160,United States,Atlanta,Georgia,30318,South
+MC-17275,United States,Atlanta,Georgia,30318,South
+NW-18400,United States,Atlanta,Georgia,30318,South
+TB-21280,United States,Atlanta,Georgia,30318,South
+BS-11380,United States,Gladstone,Missouri,64118,Central
+HH-15010,United States,Gladstone,Missouri,64118,Central
+CD-12280,United States,Newark,Ohio,43055,East
+TH-21100,United States,Los Angeles,California,90049,West
+MM-18055,United States,Los Angeles,California,90049,West
+NS-18505,United States,Great Falls,Montana,59405,West
+RB-19645,United States,Great Falls,Montana,59405,West
+SW-20455,United States,Great Falls,Montana,59405,West
+EB-13930,United States,Great Falls,Montana,59405,West
+PS-18760,United States,Houston,Texas,77041,Central
+HF-14995,United States,Houston,Texas,77041,Central
+HZ-14950,United States,Houston,Texas,77041,Central
+CD-12790,United States,Detroit,Michigan,48234,Central
+JK-15205,United States,Los Angeles,California,90032,West
+FM-14215,United States,Los Angeles,California,90032,West
+ED-13885,United States,Lawrence,Massachusetts,1841,East
+DA-13450,United States,Lakeland,Florida,33801,South
+JW-15955,United States,Lakeland,Florida,33801,South
+RM-19375,United States,Philadelphia,Pennsylvania,19134,East
+ML-17755,United States,Philadelphia,Pennsylvania,19134,East
+CC-12685,United States,Philadelphia,Pennsylvania,19134,East
+JE-15610,United States,Los Angeles,California,90036,West
+RP-19855,United States,Los Angeles,California,90032,West
+TB-21175,United States,Montgomery,Alabama,36116,South
+BE-11455,United States,Montgomery,Alabama,36116,South
+JF-15565,United States,Mesa,Arizona,85204,West
+PB-19210,United States,Chicago,Illinois,60653,Central
+BT-11680,United States,New York City,New York,10009,East
+JL-15235,United States,Henderson,Kentucky,42420,South
+CH-12070,United States,Henderson,Kentucky,42420,South
+ND-18460,United States,Green Bay,Wisconsin,54302,Central
+BF-10975,United States,Tucson,Arizona,85705,West
+KH-16330,United States,Springfield,Ohio,45503,East
+GW-14605,United States,Fort Worth,Texas,76106,Central
+NC-18625,United States,Fort Worth,Texas,76106,Central
+ME-18010,United States,Fort Worth,Texas,76106,Central
+BP-11230,United States,New York City,New York,10035,East
+JC-15775,United States,New York City,New York,10035,East
+AS-10090,United States,Chicago,Illinois,60653,Central
+AC-10450,United States,Chicago,Illinois,60653,Central
+MD-17860,United States,Chicago,Illinois,60653,Central
+DB-13660,United States,San Francisco,California,94110,West
+EH-13990,United States,Jacksonville,Florida,32216,South
+EH-13765,United States,Houston,Texas,77070,Central
+SC-20230,United States,Anaheim,California,92804,West
+JE-15715,United States,Wilmington,North Carolina,28403,South
+AC-10615,United States,Los Angeles,California,90045,West
+JD-16015,United States,Los Angeles,California,90045,West
+CB-12415,United States,Los Angeles,California,90045,West
+JS-16030,United States,San Francisco,California,94110,West
+LW-17215,United States,San Francisco,California,94110,West
+SC-20800,United States,Tampa,Florida,33614,South
+AM-10705,United States,Tampa,Florida,33614,South
+RH-19510,United States,Seattle,Washington,98105,West
+CT-11995,United States,Seattle,Washington,98105,West
+MC-17590,United States,Los Angeles,California,90008,West
+CC-12610,United States,Seattle,Washington,98105,West
+KA-16525,United States,Seattle,Washington,98105,West
+TC-20980,United States,Seattle,Washington,98105,West
+BF-11080,United States,Seattle,Washington,98105,West
+MM-17260,United States,New York City,New York,10024,East
+AH-10120,United States,New York City,New York,10024,East
+BW-11200,United States,New York City,New York,10024,East
+SW-20245,United States,New York City,New York,10024,East
+BS-11665,United States,Marysville,Washington,98270,West
+RF-19345,United States,Long Beach,California,90805,West
+WB-21850,United States,Long Beach,California,90805,West
+TB-21625,United States,Long Beach,California,90805,West
+AF-10870,United States,Chicago,Illinois,60610,Central
+RB-19435,United States,Chicago,Illinois,60610,Central
+KF-16285,United States,Los Angeles,California,90004,West
+JH-15820,United States,Denver,Colorado,80219,West
+IL-15100,United States,Denver,Colorado,80219,West
+PB-18805,United States,Denver,Colorado,80219,West
+RH-19600,United States,Denver,Colorado,80219,West
+AW-10930,United States,Denver,Colorado,80219,West
+ML-17410,United States,Richmond,Kentucky,40475,South
+DB-13555,United States,Richmond,Kentucky,40475,South
+MH-17620,United States,Salem,Oregon,97301,West
+DK-13375,United States,Salem,Oregon,97301,West
+BT-11440,United States,Salem,Oregon,97301,West
+DB-13405,United States,Salem,Oregon,97301,West
+TG-21310,United States,Laredo,Texas,78041,Central
+BF-11005,United States,Laredo,Texas,78041,Central
+JM-16195,United States,San Diego,California,92024,West
+MZ-17335,United States,San Diego,California,92024,West
+MW-18220,United States,San Diego,California,92024,West
+MV-17485,United States,San Diego,California,92024,West
+SM-20320,United States,Philadelphia,Pennsylvania,19134,East
+TP-21415,United States,Philadelphia,Pennsylvania,19120,East
+JK-15625,United States,Philadelphia,Pennsylvania,19120,East
+PJ-18835,United States,Philadelphia,Pennsylvania,19120,East
+RS-19420,United States,Tampa,Florida,33614,South
+SV-20935,United States,Tampa,Florida,33614,South
+BC-11125,United States,Tampa,Florida,33614,South
+EM-13825,United States,Tampa,Florida,33614,South
+BM-11575,United States,Tampa,Florida,33614,South
+KN-16705,United States,Philadelphia,Pennsylvania,19134,East
+KW-16570,United States,Philadelphia,Pennsylvania,19134,East
+SC-20260,United States,Philadelphia,Pennsylvania,19134,East
+CV-12295,United States,Dallas,Texas,75217,Central
+SG-20605,United States,Dallas,Texas,75217,Central
+TM-21010,United States,Philadelphia,Pennsylvania,19143,East
+EM-13810,United States,Philadelphia,Pennsylvania,19143,East
+ML-18040,United States,Grove City,Ohio,43123,East
+CR-12580,United States,Grove City,Ohio,43123,East
+AZ-10750,United States,New York City,New York,10011,East
+PW-19240,United States,New York City,New York,10011,East
+SC-20380,United States,New York City,New York,10011,East
+CM-11935,United States,New York City,New York,10011,East
+GM-14695,United States,New York City,New York,10011,East
+TB-21250,United States,Chicago,Illinois,60610,Central
+JM-15865,United States,Dearborn,Michigan,48126,Central
+SC-20575,United States,Dearborn,Michigan,48126,Central
+LS-17200,United States,Dearborn,Michigan,48126,Central
+RR-19315,United States,Dearborn,Michigan,48126,Central
+DB-12910,United States,New York City,New York,10009,East
+TT-21220,United States,Seattle,Washington,98115,West
+LO-17170,United States,San Francisco,California,94122,West
+KD-16615,United States,San Francisco,California,94122,West
+NB-18580,United States,Aurora,Colorado,80013,West
+BD-11635,United States,Aurora,Colorado,80013,West
+CM-12235,United States,Aurora,Colorado,80013,West
+EN-13780,United States,Miami,Florida,33180,South
+KN-16450,United States,Miami,Florida,33180,South
+BO-11350,United States,Warner Robins,Georgia,31088,South
+AG-10300,United States,Aurora,Colorado,80013,West
+MC-17635,United States,Aurora,Colorado,80013,West
+TA-21385,United States,Vallejo,California,94591,West
+JF-15295,United States,Vallejo,California,94591,West
+TT-21265,United States,Minneapolis,Minnesota,55407,Central
+SB-20170,United States,Mission Viejo,California,92691,West
+CL-12700,United States,Mission Viejo,California,92691,West
+HG-15025,United States,Rochester Hills,Michigan,48307,Central
+NL-18310,United States,Plainfield,New Jersey,7060,East
+RR-19525,United States,Columbus,Indiana,47201,Central
+TC-21295,United States,Sierra Vista,Arizona,85635,West
+SV-20785,United States,Sierra Vista,Arizona,85635,West
+BE-11410,United States,Vancouver,Washington,98661,West
+SC-20680,United States,Vancouver,Washington,98661,West
+DF-13135,United States,Vancouver,Washington,98661,West
+FH-14350,United States,New York City,New York,10024,East
+MS-17530,United States,New York City,New York,10035,East
+RH-19555,United States,New York City,New York,10035,East
+GA-14515,United States,Columbus,Ohio,43229,East
+JP-16135,United States,Columbus,Ohio,43229,East
+Dp-13240,United States,Columbus,Ohio,43229,East
+MO-17950,United States,Aurora,Illinois,60505,Central
+DL-13330,United States,Aurora,Illinois,60505,Central
+MH-18025,United States,Arlington,Texas,76017,Central
+DR-12940,United States,Arlington,Texas,76017,Central
+DM-13015,United States,Arlington,Texas,76017,Central
+CA-11965,United States,Arlington,Texas,76017,Central
+AC-10660,United States,New York City,New York,10011,East
+DM-13345,United States,Louisville,Kentucky,40214,South
+VF-21715,United States,Dallas,Texas,75081,Central
+CC-12370,United States,Dallas,Texas,75081,Central
+BF-11275,United States,Dallas,Texas,75081,Central
+HG-14845,United States,Cleveland,Ohio,44105,East
+BP-11155,United States,Chicago,Illinois,60653,Central
+EM-14140,United States,Chicago,Illinois,60653,Central
+MA-17995,United States,Chicago,Illinois,60653,Central
+AY-10555,United States,Quincy,Illinois,62301,Central
+GB-14575,United States,Columbus,Indiana,47201,Central
+JB-16045,United States,Columbus,Indiana,47201,Central
+MG-17875,United States,Columbus,Indiana,47201,Central
+SR-20425,United States,Tyler,Texas,75701,Central
+JB-16000,United States,Tyler,Texas,75701,Central
+DM-12955,United States,Tyler,Texas,75701,Central
+TC-21475,United States,Tyler,Texas,75701,Central
+SW-20350,United States,New York City,New York,10024,East
+RE-19450,United States,New York City,New York,10024,East
+BF-11215,United States,New York City,New York,10024,East
+KB-16405,United States,Burlington,North Carolina,27217,South
+JG-15310,United States,Burlington,North Carolina,27217,South
+EC-14050,United States,Jackson,Mississippi,39212,South
+EB-14110,United States,Jackson,Mississippi,39212,South
+JP-15460,United States,Jackson,Mississippi,39212,South
+CS-11845,United States,New York City,New York,10035,East
+GH-14410,United States,Waynesboro,Virginia,22980,South
+PT-19090,United States,Waynesboro,Virginia,22980,South
+JL-15130,United States,Waynesboro,Virginia,22980,South
+AH-10030,United States,Los Angeles,California,90036,West
+CC-12475,United States,Los Angeles,California,90036,West
+DW-13195,United States,Chester,Pennsylvania,19013,East
+SJ-20215,United States,Chester,Pennsylvania,19013,East
+BG-11740,United States,Chester,Pennsylvania,19013,East
+LB-16795,United States,Chester,Pennsylvania,19013,East
+CM-11815,United States,Chester,Pennsylvania,19013,East
+EH-14185,United States,Chester,Pennsylvania,19013,East
+TS-21505,United States,Chester,Pennsylvania,19013,East
+PR-18880,United States,Cleveland,Ohio,44105,East
+LC-17050,United States,Seattle,Washington,98103,West
+CS-12490,United States,Long Beach,California,90805,West
+DH-13075,United States,Cary,North Carolina,27511,South
+JO-15145,United States,Cary,North Carolina,27511,South
+AH-10690,United States,Cary,North Carolina,27511,South
+HJ-14875,United States,New York City,New York,10035,East
+MH-17455,United States,New York City,New York,10035,East
+RD-19930,United States,New York City,New York,10035,East
+SC-20020,United States,New York City,New York,10035,East
+SU-20665,United States,Palm Coast,Florida,32137,South
+FC-14335,United States,Mount Vernon,New York,10550,East
+RB-19330,United States,Mount Vernon,New York,10550,East
+NC-18535,United States,Mount Vernon,New York,10550,East
+DB-12970,United States,Seattle,Washington,98105,West
+MF-17665,United States,Dover,Delaware,19901,East
+RM-19750,United States,Newark,Ohio,43055,East
+VM-21835,United States,Orem,Utah,84057,West
+EJ-13720,United States,Orem,Utah,84057,West
+NC-18415,United States,Los Angeles,California,90045,West
+LS-17230,United States,Detroit,Michigan,48205,Central
+KE-16420,United States,Detroit,Michigan,48205,Central
+DH-13675,United States,Philadelphia,Pennsylvania,19140,East
+PF-19120,United States,Hialeah,Florida,33012,South
+VT-21700,United States,Austin,Texas,78745,Central
+MG-17695,United States,Austin,Texas,78745,Central
+SP-20920,United States,Oceanside,New York,11572,East
+CS-12175,United States,Oceanside,New York,11572,East
+DK-12895,United States,Oceanside,New York,11572,East
+KM-16660,United States,Oceanside,New York,11572,East
+AA-10645,United States,Oceanside,New York,11572,East
+DD-13570,United States,Seattle,Washington,98115,West
+AH-10465,United States,Seattle,Washington,98115,West
+TP-21565,United States,Seattle,Washington,98115,West
+EK-13795,United States,Seattle,Washington,98115,West
+CR-12820,United States,Seattle,Washington,98115,West
+SG-20890,United States,Seattle,Washington,98115,West
+AH-10585,United States,San Francisco,California,94110,West
+NF-18475,United States,Naperville,Illinois,60540,Central
+BS-11365,United States,Naperville,Illinois,60540,Central
+SH-20635,United States,Naperville,Illinois,60540,Central
+RD-19720,United States,Dallas,Texas,75220,Central
+AG-10330,United States,Dallas,Texas,75220,Central
+GR-14560,United States,Dallas,Texas,75220,Central
+VS-21820,United States,Dallas,Texas,75220,Central
+TM-21490,United States,San Diego,California,92105,West
+TS-21430,United States,San Diego,California,92105,West
+DB-13360,United States,Evanston,Illinois,60201,Central
+NR-18550,United States,Trenton,Michigan,48183,Central
+CS-11860,United States,Trenton,Michigan,48183,Central
+MF-18250,United States,Trenton,Michigan,48183,Central
+LW-17125,United States,Trenton,Michigan,48183,Central
+AR-10345,United States,San Francisco,California,94110,West
+KS-16300,United States,Los Angeles,California,90036,West
+AB-10015,United States,Jacksonville,Florida,32216,South
+LR-17035,United States,Cottage Grove,Minnesota,55016,Central
+SS-20410,United States,Cottage Grove,Minnesota,55016,Central
+JM-15580,United States,New York City,New York,10009,East
+JK-15325,United States,Green Bay,Wisconsin,54302,Central
+DM-13525,United States,Los Angeles,California,90004,West
+ML-18265,United States,Atlanta,Georgia,30318,South
+MH-17290,United States,Columbus,Ohio,43229,East
+FC-14245,United States,Bossier City,Louisiana,71111,South
+TH-21115,United States,Bossier City,Louisiana,71111,South
+JK-16090,United States,Bossier City,Louisiana,71111,South
+SB-20185,United States,Bossier City,Louisiana,71111,South
+BG-11035,United States,Bossier City,Louisiana,71111,South
+BW-11065,United States,Saint Petersburg,Florida,33710,South
+MG-18205,United States,Arlington,Virginia,22204,South
+DO-13645,United States,Des Moines,Iowa,50315,Central
+BP-11050,United States,Des Moines,Iowa,50315,Central
+TS-21655,United States,Des Moines,Iowa,50315,Central
+EM-14200,United States,Des Moines,Iowa,50315,Central
+AO-10810,United States,Des Moines,Iowa,50315,Central
+MH-17440,United States,Des Moines,Iowa,50315,Central
+SS-20515,United States,Cincinnati,Ohio,45231,East
+LD-16855,United States,San Francisco,California,94110,West
+VP-21760,United States,San Francisco,California,94110,West
+TC-21145,United States,San Francisco,California,94110,West
+IM-15055,United States,San Francisco,California,94110,West
+AR-10570,United States,Columbus,Ohio,43229,East
+CM-12715,United States,Columbus,Ohio,43229,East
+FW-14395,United States,Columbus,Ohio,43229,East
+LC-16960,United States,Columbus,Ohio,43229,East
+HE-14800,United States,Columbia,South Carolina,29203,South
+BD-11560,United States,Lancaster,California,93534,West
+HD-14785,United States,Lancaster,California,93534,West
+CJ-11875,United States,Richmond,Virginia,23223,South
+RS-19870,United States,Richmond,Virginia,23223,South
+SC-20845,United States,Richmond,Virginia,23223,South
+RE-19405,United States,Richmond,Virginia,23223,South
+SM-20905,United States,Asheville,North Carolina,28806,South
