@@ -44,9 +44,11 @@ def create_csv_staging_tables(db_session,source_name):
     files = return_csv_file_directories(source_name)
     for file in files:
         staging_df = return_data_as_df(input_type= InputTypes.CSV, file_executor= file)
+        staging_df.columns=staging_df.columns.str.replace(" |-","_",regex=True)
         dst_table = get_table_name_from_csv(file)
         create_stmt = return_create_statement_from_df(staging_df, 'dw_reporting', dst_table)
         execute_query(db_session=db_session, query= create_stmt)
+        
 
 def execute_prehook(sql_command_directory_path = './SQL_Commands'):
     try:

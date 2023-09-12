@@ -4,7 +4,7 @@ from logging_handler import show_error_message
 import pandas as pd
 
 config_dict = {
-    "database": "dvd_rental",
+    "database": "dvdrental",
     "host":"localhost",
     "port":5432,
     "user":"postgres",
